@@ -1,0 +1,239 @@
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700;900&display=swap");
+.textonnav1 {
+  margin-left: 14%;
+  margin-top: 1%;
+  font-family: "Oswald", sans-serif;
+  color: #bb7d1e;
+}
+
+#header1 {
+  display: flex;
+  justify-content: center;
+  font-family: "Oswald", sans-serif;
+  font-size: 40px;
+}
+
+.textonnav2 {
+  margin-top: 1%;
+  font-family: "Oswald", sans-serif;
+  color: #759e05;
+}
+
+.search {
+  background-color: #b62002;
+  color: white;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.search1 {
+  width: 430px;
+  height: 100%;
+  font-family: "Oswald", sans-serif;
+  font-size: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.decoration1 {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.firsttopic {
+  font-family: "Oswald", sans-serif;
+  width: 100%;
+  min-height: 300px;
+  height: 550px;
+}
+
+.firsttopic-leftpart {
+  width: 530x;
+  height: 400px;
+}
+.firsttopic-rightpart {
+  width: 1000px;
+  height: 400px;
+  display: flex;
+  margin-top: 100px;
+  margin-left: 80px;
+}
+
+.firsttopic-wrapper {
+  width: 1080px;
+}
+
+.firsttopic-head {
+  font-size: 43px;
+  width: 530px;
+  color: #b62002;
+}
+
+.firsttopic-text {
+  font-size: 28px;
+  width: 530px;
+  margin-right: 100px;
+}
+
+.view1 {
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.flower {
+  margin-top: 30px;
+
+  background-image: url(./image/flower1.jpg);
+  background-color: #cccccc; /* Used if the image is unavailable */
+  height: 300px; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+
+.text-in-flower {
+  height: 250px;
+  width: 600px;
+  margin-top: 25px;
+  background-color: #5291b8;
+  opacity: 0.9;
+}
+
+.secondtopic-head {
+  font-family: "Oswald", sans-serif;
+  display: flex;
+  justify-content: center;
+  margin-top: 15px;
+  color: #d9d901;
+  font-size: 28px;
+}
+
+.secondtopic-text {
+  font-family: "Oswald", sans-serif;
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+  padding: 10px;
+  font-size: 21px;
+}
+
+.thirdtopic {
+  background-color: #f3e7bb;
+  padding-top: 50px;
+  height: 700px;
+  width: 100%;
+}
+
+.thirdtopic-wrapper {
+  width: 800px;
+}
+
+.thirdtopic-leftpart {
+  width: 360px;
+  height: 400px;
+}
+.thirdtopic-rightpart {
+  width: 360px;
+  height: 400px;
+}
+
+.thirdtopic-head {
+  font-family: "Oswald", sans-serif;
+  margin-top: 70px;
+  font-size: 40px;
+  color: #b62002;
+}
+
+.thirdtopic-text {
+  margin-top: 40px;
+  font-family: "Oswald", sans-serif;
+  font-size: 26px;
+}
+
+.fourthtopic {
+  background-color: #f3e7bb;
+  height: 400px;
+  width: 100%;
+}
+
+.fourthtopic-wrapper {
+  margin-top: 0px;
+  width: 1350px;
+}
+
+.fourthtopic-leftpart {
+  margin-left: 150px;
+  width: 500px;
+  height: 366px;
+}
+.fourthtopic-rightpart {
+  width: 650px;
+  height: 400px;
+}
+
+.fourthtopic-head {
+  font-family: "Oswald", sans-serif;
+  margin-left: 50px;
+  font-size: 45px;
+  color: #b62002;
+}
+
+.fourthtopic-text {
+  margin-top: 20px;
+  font-family: "Oswald", sans-serif;
+  font-size: 26px;
+}
+
+.chooseselection {
+  margin-top: 60px;
+  margin-left: 30%;
+}
+
+.footer {
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  height: 150px;
+  width: 100%;
+  background-color: #7b4d08;
+}
+
+.footer-text {
+  font-family: "Oswald", sans-serif;
+  color: wheat;
+  font-size: 18px;
+}
+
+.form {
+  background-color: #f5f505;
+  padding: 10px;
+  border: #026fb4 outset 10px;
+}
+
+.table1 {
+  width: 80%;
+  margin-top: 30px;
+  margin-left: 150px;
+}
+
+.feedback {
+  height: 800px;
+  display: flex;
+  justify-content: center;
+  background-color: #eed680;
+}
+
+.card-one,
+.card-two,
+.card-three,
+.card-four {
+  padding: 30px;
+  padding-top: 60px;
+}
